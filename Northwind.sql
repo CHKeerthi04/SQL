@@ -1,4 +1,4 @@
-select * from orders;
+ select * from orders;
 # how many unique order id are there
 select count(distinct OrderID) from orders;
 #ship vis-distinct count
